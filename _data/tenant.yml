@@ -1,4 +1,11 @@
-name: elastic.ioasdsad
-companyName: elastic.io GmbHasdsad
+<<<<<<< HEAD
+name: TEST
+companyName: TESTNAME
 apiBaseUri: https://api.elastic.ioasdasd
 supportEmail: support@elastic.ioasdsad
+=======
+name: TEST
+companyName: elastic.io GmbH
+apiBaseUri: https://api.elastic.io
+supportEmail: support@elastic.io
+>>>>>>> 88bcbd494b53ffe65ae35a9e9bf5c4ea608816cf
