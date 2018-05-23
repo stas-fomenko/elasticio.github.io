@@ -1,12 +1,4 @@
-<<<<<<< HEAD
 name: Riversand
 companyName: Riversand
 apiBaseUri: https://api.elastic.ioasdasd
 supportEmail: support@elastic.ioasdsad
-
-=======
-name: TEST
-companyName: TESTNAME
-apiBaseUri: https://api.elastic.ioasdasd
-supportEmail: support@elastic.ioasdsad
->>>>>>> 4549f9b441526d6f581e19a49fbc47dc73dacb67
