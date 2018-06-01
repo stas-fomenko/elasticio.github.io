@@ -393,7 +393,7 @@ h2 {
   border-radius: 5px; }
 
 .header_search .search {
-  width: 850px;
+  width: 800px;
   border-color: #cfd2d6;
   border-radius: 5px 5px 0 0; }
 
@@ -435,7 +435,7 @@ h2 {
   transition: all 0.4s ease; }
 
 .search__input:focus {
-  width: 850px; }
+  width: 800px; }
 
 .search__input::-webkit-input-placeholder {
   color: #a1b0c5; }
