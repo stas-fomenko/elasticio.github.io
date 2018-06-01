@@ -393,7 +393,7 @@ h2 {
   border-radius: 5px; }
 
 .header_search .search {
-  width: 800px;
+  width: 750px;
   border-color: #cfd2d6;
   border-radius: 5px 5px 0 0; }
 
@@ -405,7 +405,7 @@ h2 {
   background: url(../img/lup.svg) no-repeat; }
 
 .search__button {
-  font-weight: 700;
+  font-weight: 750;
   float: right;
   height: 62px;
   cursor: pointer;
