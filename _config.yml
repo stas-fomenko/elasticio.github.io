@@ -9,6 +9,6 @@ collections:
      output: true
 
 algolia:
-  application_id: '2BMDQXGD9R'
+  application_id: 'OIJ2XNEVHZ'
   index_name:     'test_riversand_documentation'
-  search_only_api_key: 'f526fa1d1b3215fc84f4df688004d33e'
+  search_only_api_key: 'e434b9595ab515ca31a23e22aa39ecf1'
