@@ -9,6 +9,6 @@ collections:
      output: true
 
 algolia:
-  application_id: 'OIJ2XNEVHZ'
-  index_name:     'test_elasticio_documentation'
-  search_only_api_key: 'e434b9595ab515ca31a23e22aa39ecf1'
+  application_id: 'Y7BGGRAPHC'
+  index_name:     'riversand'
+  search_only_api_key: '6007828d06dd7900f9af359f4e88149c'
