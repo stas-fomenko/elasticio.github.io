@@ -1,28 +1,30 @@
 # White-labeling the docs
 
-This project is a documentation for the elastic.io platform. In order to provide a white-labeled documentation to your customers, please follow the following steps:
+This project is a documentation for the elastic.io platform. In order to provide a white-labeled documentation to your customers, please follow the following steps: 
+
 
 1. Fork this repository
 2. Customize [variables](_data/tenant.yml) used in documentation pages
 3. Customize the [styles](./assets/css/common.css)
-4. Customize your  [Algolia](https://www.algolia.com/) configuration in the [_config.yml](./_config.yml) file (application_id, index_name and search_only_api_key) or delete them if you don't need search
+4. Customize your [Algolia](https://www.algolia.com/) configuration in the [_config.yml](./_config.yml) file (application_id, index_name and search_only_api_key) or delete them if you don't need search
 5. Customize CNAME file.
 6. DO NOT edit any content to avoid merging conflicts
 7. Pull changes from the original repository regularly so that your docs are up-to-date
 
 # How to create Algolia configuration 
 
-1. [Sign-up](https://www.algolia.com/users/sign_up) or [sign-in](https://www.algolia.com/users/sign_in). 
+1. [Sign-up](https://www.algolia.com/users/sign_up) or [sign-in](https://www.algolia.com/users/sign_in) 
 2. Go to “Indices” section and add new index:
-
-3. Your index_name could be found here:
-
-4. Find application_id and search_only_api_key in “API Keys” section:
+![algolia2](https://user-images.githubusercontent.com/36419533/41036629-59584f76-6999-11e8-99d9-cb04a49612dd.png)
+3. Here is your `index_name`:
+![algolia3](https://user-images.githubusercontent.com/36419533/41036633-5ec96c60-6999-11e8-8af3-3a2cd26f5933.png)
+4. Find `application_id` and `search_only_api_key` in “API Keys” section:
+![algolia4](https://user-images.githubusercontent.com/36419533/41036640-6449c626-6999-11e8-93b7-c5d0ea8ede03.png)
 
 
 5. Now you can Customize your Algolia configuration in the _config.yml file
 
-# Be be aware that “elasticio” is also mentioned in documentation:
+# Be aware that “elasticio” is also mentioned in documentation:
 
  - as password of Petstore Component:
    - /getting-started/credential.html
