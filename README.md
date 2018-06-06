@@ -1,18 +1,3 @@
-# White-labeling the docs
-
-This project is a documentation for the elastic.io platform. In order to
-provide a white-labeled documentation to your customers, please follow
-the following steps:
-
-1. Fork this repository
-2. Customize [variables](_data/tenant.yml) used in documentation pages
-3. Customize the [styles](./assets/css/common.css)
-4. Customize your [Algolia](https://www.algolia.com/) configuration in the
-[_config.yml](./_config.yml) file (`application_id`, `index_name` and `search_only_api_key`) or delete them if you don't need search
-5. DO NOT edit any content to avoid merging conflicts
-6. Pull changes from the original repository regularly so that your docs
-are up-to-date
-
 # Testing locally
 
 If you don't have the ``jekyll/jekyll`` Docker image on your machine yet,
@@ -60,4 +45,3 @@ The docs are available now at [http://localhost:4000/](http://localhost:4000/).
 3. Create a pull request back to this repo
 4. Wait for review approval by contributors
 5. Enjoy the new docs
-
