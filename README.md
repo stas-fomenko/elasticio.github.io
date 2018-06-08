@@ -24,27 +24,6 @@ This project is a documentation for the elastic.io platform. In order to provide
 
 5. Now you can Customize your Algolia configuration in the _config.yml file
 
-# Be aware that “elasticio” is also mentioned in documentation:
-
- - as password of Petstore Component:
-   - /getting-started/credential.html
-   - /getting-started/first-flow.html
-   - /getting-started/webhooks-flow.html
-
-- as part of terminal command example:
-  - /developer-guide/teams-and-repos.html
-  - /developer-guide/deploying-component.html
-
-- as example of code:
-  - /developer-guide/building-nodejs-component.html
-  - /developer-guide/building-java-component.html
-  - /references/sailor-compatibility-matrix.html
-
-- as HTTP request body example:
-  - /integrator-guide/rest-api-component.html
-
-
-
 
 
 
