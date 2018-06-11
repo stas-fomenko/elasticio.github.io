@@ -1,4 +1,11 @@
-name: Riversand
+name: Riversand.com
 companyName: Riversand
 apiBaseUri: https://api.riversand.com
+gitDomain: git.elastic.io
 supportEmail: support@riversand.com
+petStoreDocs: https://petstore.elastic.io/docs
+petStoreApiKey: secret
+petStoreSourceNodeJS: https://github.com/elasticio/petstore-component-nodejs
+petStoreSourceJava: https://github.com/elasticio/petstore-component-java
+javaAPIDocs: http://www.elastic.io/javadoc/
+javaAPISource: https://github.com/elasticio/java-api
