@@ -13,7 +13,7 @@ SAP, etc. In most cases a component connects to the service's API
 A component may also connect to a Database, an SFTP server, etc. to retrieve
 or store data.
 
-A component can expose multiple operations to be used in [integration flows](getting-started/integration-flow).
+A component can expose multiple operations to be used in ![integration flows](getting-started/integration-flow).
 As a rule of thumb a component talking to an application through its REST
 API will expose operations that reflect the endpoints of that API. Let's
 explore the integration component for the [Petstore](https://petstore.elastic.io/docs/)
