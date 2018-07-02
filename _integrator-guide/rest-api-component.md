@@ -144,9 +144,6 @@ The screenshot above shows how the `XML` is received and parsed to JSON using
     ]
 }
 ```
-For more information please see the
-[Documentation of XML2JS library](https://github.com/Leonidas-from-XIV/node-xml2js#options)
-
 ### Sending Form data
 
 To send a form data two content types are available:
