@@ -92,5 +92,5 @@ being passed to `Petstore` component.
 The {{site.data.tenant.name}} platform provides a set of built-in components
 to be used right away. Furthermore the platform is open for contributions
 of custom components. Please read how to build integration components using
-[Node.js](_getting-started/building-nodejs-component.html) or
-[Java programming](_getting-started/integration-component.html)  languages.
+[Node.js](building-nodejs-component.html) or
+[Java programming](integration-component.html) languages.
