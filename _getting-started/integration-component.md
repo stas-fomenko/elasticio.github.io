@@ -90,5 +90,7 @@ being passed to `Petstore` component.
 # Implementing own integration components
 
 The {{site.data.tenant.name}} platform provides a set of built-in components
-to be used right away. Furthermore the platform is open for contributions
-of custom components.
+ to be used right away. Furthermore the platform is open for contributions
+ of custom components. Please read how to build integration components using
+[Node.js](/developer-guide/building-nodejs-component) or
+[Java programming](/developer-guide/building-java-component)  languages.
