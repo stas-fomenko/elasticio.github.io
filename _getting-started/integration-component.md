@@ -9,7 +9,7 @@ category: component
 An integration component is a small application specialized on
 retrieving/storing objects from/to a service such as Salesforce, Quickbooks,
 SAP, etc. In most cases a component connects to the service's API
-(REST, SOAP, etc) on user's behalf using the provided [credentials](credential.html).
+(REST, SOAP, etc) on user's behalf using the provided [credentials](credential).
 A component may also connect to a Database, an SFTP server, etc. to retrieve
 or store data.
 
