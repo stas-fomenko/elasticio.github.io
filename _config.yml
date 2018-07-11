@@ -9,6 +9,6 @@ collections:
      output: true
 
 algolia:
-  application_id: 'BH4D9OD16A'
+  application_id: 'ATFLB4CP7X'
   index_name: 'riversand'
-  search_only_api_key: '6007828d06dd7900f9af359f4e88149c'
+  search_only_api_key: 'ce94e2f5b4ab95657bfdc9bcc62a7529'
